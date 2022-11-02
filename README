@@ -1,0 +1,18 @@
+Hello ALL,
+
+This is my website i created using django for 
+the backend, also used REST Framework for the api.
+For the frontend this was my first time using any 
+Javascript but after a lot of stack overflow 
+and youtube i was able to get it going okay.
+I did encounter an issue i have yet to solve and 
+that is the redirect at the create page, for some reason
+i can only redirect to the spotify login API from the update settings page.
+
+Anyways, this project was fun and i had a lot of fun learning javascript and using my 
+python knowledge for the backend. I will also say that i really like rest API so far
+i have had such an easy time with it.
+
+ill continue you ton update on this, but not top priority at the moment,
+i would really liek to make something more robust using react and django, big fan of those 
+two frameworks right now and REST API
